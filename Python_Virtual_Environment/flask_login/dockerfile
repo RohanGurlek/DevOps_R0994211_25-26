@@ -1,0 +1,6 @@
+FROM python
+WORKDIR /app
+RUN pip install flask cryptography
+COPY . /app
+EXPOSE 5555
+CMD ["python", "flask_app_login.py"]

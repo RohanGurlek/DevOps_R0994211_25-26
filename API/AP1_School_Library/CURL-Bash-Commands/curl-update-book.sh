@@ -1,5 +1,5 @@
 #!/bin/bash
-APIKEY="cisco|7EJPISYa3M1CguJ9c4qNt6Qr63SO-bDyNHUUjF_fDcU"
+APIKEY="cisco|H4gw2oBNr85O3Rur5m5d5y-3jEFe1O3UaEcqJ_VeGkI"
 BOOK=3
 NEW_BOOK_ID=3
 NEW_BOOK_TITLE="boekje is leuk"

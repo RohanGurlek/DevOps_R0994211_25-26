@@ -1,6 +1,6 @@
 #!/bin/bash
-APIKEY="cisco|7EJPISYa3M1CguJ9c4qNt6Qr63SO-bDyNHUUjF_fDcU"
-BOOK_ID=202
+APIKEY="cisco|H4gw2oBNr85O3Rur5m5d5y-3jEFe1O3UaEcqJ_VeGkI"
+BOOK_ID=101
 BOOK_TITLE="Demo POST boek"
 BOOK_AUTHOR="Demo auteur"
 POST_URL="http://library.demo.local/api/v1/books"
